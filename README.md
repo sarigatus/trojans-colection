@@ -1,2 +1,2 @@
 # trojans-colection
-malwaes
+# later there will be malwares here
